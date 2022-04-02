@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there! I am Dina
 
 ## I am a student pursuing my last year of master's at ENS Paris Saclay. Below is a brief recap of my past:
 
@@ -6,7 +6,7 @@
 - 🔍 ENS Lyon, [M.Sc in Theoretical Computer Science](http://informatique.ens-lyon.fr/en/academic-programs/master/master-computer-science)
 - 📝 Université Jean Monnet Saint-Etienne - Internship in Natural Language Processing - duration 5 months
 - 🗃️ Télécom Paris - Internship in Recommender Systems - duration 2 months
-- 👩‍💻 Reef Kinetics - Software Enginner
+- 👩‍💻 Reef Kinetics - Software Enginner - duration 8 months
 - 🎓 American University of Beirut - B.Sc. in Computer Science
 - 📚 American University of Beirut - Minor in Mathematics and Computational Science
 
