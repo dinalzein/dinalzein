@@ -16,7 +16,6 @@ You can find my CV [here][CV].
 
 [<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][LinkedIn]
 [<img src="https://img.shields.io/badge/-mail-blue?style=flat&logo=Gmail&logoColor=white&link&fbclid=IwAR0WmXs7mnPRkIyDJM2sTmwz549ynOQABq5yZa2UnlxCpOKL-awG3Jkh_Ew&link=mailto:dina.el-zein@ens-lyon.fr" />][Gmail]
-
 <br />
 <br />
 
