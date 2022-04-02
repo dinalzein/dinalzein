@@ -1,8 +1,6 @@
 ## Hi there!
 
-## I am a student pursuing my last year of master's at ENS Paris Saclay.
-
-# Here is a brief recap of my past:
+## I am a student pursuing my last year of master's at ENS Paris Saclay. Below is a brief recap of my past:
 
 - 🔍 ENS Paris-Saclay, M.Sc in Applied Mathematics, [MVA](https://www.master-mva.com)
 - 🔍 ENS Lyon, [M.Sc in Theoretical Computer Science](http://informatique.ens-lyon.fr/en/academic-programs/master/master-computer-science)
