@@ -12,7 +12,7 @@
 
 You can find my CV [here][CV].
 
-## Most Used Programming Languages
+## Most Used Programming Languages:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
