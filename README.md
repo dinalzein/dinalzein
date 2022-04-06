@@ -2,7 +2,7 @@
 
 ## I am a student pursuing my last year of master's at ENS Paris Saclay. Below is a brief recap of my past:
 
-- 🔍 ENS Paris-Saclay, M.Sc in Applied Mathematics, [MVA](https://www.master-mva.com)
+- 🧠 ENS Paris-Saclay, M.Sc in Applied Mathematics, [MVA](https://www.master-mva.com)
 - 🔍 ENS Lyon, [M.Sc in Theoretical Computer Science](http://informatique.ens-lyon.fr/en/academic-programs/master/master-computer-science)
 - 📝 Université Jean Monnet Saint-Etienne - Internship in Natural Language Processing - duration 5 months
 - 🗃️ Télécom Paris - Internship in Recommender Systems - duration 2 months
@@ -11,6 +11,15 @@
 - 📚 American University of Beirut - Minor in Mathematics and Computational Science
 
 You can find my CV [here][CV].
+
+## Most Used Programming Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
 
 ## Connect with me:
 
