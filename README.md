@@ -28,6 +28,6 @@ You can find my CV [here][CV].
 <br />
 <br />
 
-[CV]: https://drive.google.com/file/d/1ENRmDap3fUrlis4uZil0VroLWTXnO_CC/view?usp=sharing
+[CV]: https://drive.google.com/file/d/1mhFsqR7YtVn8VQOBNBiTlcd2kvDBGHTc/view?usp=sharing
 [LinkedIn]: https://www.linkedin.com/in/delzein/
 [Gmail]: mailto:dina.el-zein@ens-lyon.fr
