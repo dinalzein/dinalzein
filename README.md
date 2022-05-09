@@ -8,7 +8,7 @@
 - 🗃️ Télécom Paris - Internship in Recommender Systems - duration 2 months
 - 👩‍💻 Reef Kinetics - Software Enginner - duration 8 months
 - 🎓 American University of Beirut - B.Sc. in Computer Science
-- 📚 American University of Beirut - Minor in Mathematics and Computational Science
+- 📚 American University of Beirut - Minors in both Mathematics and Computational Science
 
 You can find my CV [here][CV].
 
