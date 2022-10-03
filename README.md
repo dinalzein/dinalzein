@@ -2,13 +2,14 @@
 
 ## I am a student pursuing my last year of master's at ENS Paris Saclay. Below is a brief recap of my past:
 
+- 👁 [Imagine, ENPC](https://imagine-lab.enpc.fr) - Internship in Computer Vision - duration 4 months
 - 🧠 ENS Paris-Saclay, M.Sc in Applied Mathematics, [MVA](https://www.master-mva.com)
 - 🔍 ENS Lyon, [M.Sc in Theoretical Computer Science](http://informatique.ens-lyon.fr/en/academic-programs/master/master-computer-science)
-- 📝 Université Jean Monnet Saint-Etienne - Internship in Natural Language Processing - duration 5 months
-- 🗃️ Télécom Paris - Internship in Recommender Systems - duration 2 months
-- 👩‍💻 Reef Kinetics - Software Enginner - duration 8 months
-- 🎓 American University of Beirut - B.Sc. in Computer Science
-- 📚 American University of Beirut - Minor in Mathematics and Computational Science
+- 📝 [Hubert Curien Laboratory, Jean Monnet University](https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/data-intelligence/recherch-areas/machine-learning-for-natural-language-processing.html) - Internship in Natural Language Processing - duration 5 months
+- 🗃️ [LTCI, Télécom Paris](https://www.telecom-paris.fr/en/research/laboratories/information-processing-and-communication-laboratory-ltci) - Internship in Recommender Systems - duration 2 months
+- 👩‍💻 Reef Kinetics - Software Engineer - duration 8 months
+- 🎓 American University of Beirut - [B.Sc. in Computer Science](https://www.aub.edu.lb/registrar/Documents/catalogue/undergraduate19-20/computerscience.pdf)
+- 📚 American University of Beirut - [Minor in Mathematics](https://www.aub.edu.lb/registrar/Documents/catalogue/undergraduate15-16/mathematics.pdf) and [Minor in Computational Science](https://www.aub.edu.lb/fas/cs/Pages/cmps_undergraduate.aspx)
 
 You can find my CV [here][CV].
 
@@ -30,4 +31,4 @@ You can find my CV [here][CV].
 
 [CV]: https://drive.google.com/file/d/1mhFsqR7YtVn8VQOBNBiTlcd2kvDBGHTc/view?usp=sharing
 [LinkedIn]: https://www.linkedin.com/in/delzein/
-[Gmail]: mailto:dina.el-zein@ens-lyon.fr
+[Gmail]: mailto:dina.el-zein@ens-lyon.org
