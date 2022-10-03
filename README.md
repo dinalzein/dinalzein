@@ -7,7 +7,7 @@
 - 🔍 ENS Lyon, [M.Sc in Theoretical Computer Science](http://informatique.ens-lyon.fr/en/academic-programs/master/master-computer-science)
 - 📝 [Hubert Curien Laboratory, Jean Monnet University](https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/data-intelligence/recherch-areas/machine-learning-for-natural-language-processing.html) - Internship in Natural Language Processing - duration 5 months
 - 🗃️ [LTCI, Télécom Paris](https://www.telecom-paris.fr/en/research/laboratories/information-processing-and-communication-laboratory-ltci) - Internship in Recommender Systems - duration 2 months
-- 👩‍💻 Reef Kinetics - Software Engineer - duration 8 months
+- 👩‍💻 [Reef Kinetics](https://www.reefkinetics.com)- Software Engineer - duration 8 months
 - 🎓 American University of Beirut - [B.Sc. in Computer Science](https://www.aub.edu.lb/registrar/Documents/catalogue/undergraduate19-20/computerscience.pdf)
 - 📚 American University of Beirut - [Minor in Mathematics](https://www.aub.edu.lb/registrar/Documents/catalogue/undergraduate15-16/mathematics.pdf) and [Minor in Computational Science](https://www.aub.edu.lb/fas/cs/Pages/cmps_undergraduate.aspx)
 
