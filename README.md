@@ -3,7 +3,7 @@
 ## I am a student pursuing my last year of master's at ENS Paris Saclay. Below is a brief recap of my past:
 
 - 👁 [Imagine, ENPC](https://imagine-lab.enpc.fr) - Internship in Computer Vision - duration 4 months
-- 🧠 ENS Paris-Saclay, M.Sc in Applied Mathematics, [MVA](https://www.master-mva.com)
+- 🧠 ENS Paris-Saclay, [M.Sc in Applied Mathematics, MVA](https://www.master-mva.com)
 - 🔍 ENS Lyon, [M.Sc in Theoretical Computer Science](http://informatique.ens-lyon.fr/en/academic-programs/master/master-computer-science)
 - 📝 [Hubert Curien Laboratory, Jean Monnet University](https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/data-intelligence/recherch-areas/machine-learning-for-natural-language-processing.html) - Internship in Natural Language Processing - duration 5 months
 - 🗃️ [LTCI, Télécom Paris](https://www.telecom-paris.fr/en/research/laboratories/information-processing-and-communication-laboratory-ltci) - Internship in Recommender Systems - duration 2 months
